@@ -28,7 +28,7 @@ while True:
                 mycoordinatedata[id] = (x_cord,y_cord)
                 try:
                     # print(mycoordinatedata[8][1],mycoordinatedata[5][1])
-                    if mycoordinatedata[8][1] < mycoordinatedata[5][1] and mycoordinatedata[12][1] < mycoordinatedata[19][1]:
+                    if mycoordinatedata[8][1] < mycoordinatedata[5][1] and mycoordinatedata[12][1] < mycoordinatedata[9][1]:
                         print("Peace")
                     else:
                         print("War")
